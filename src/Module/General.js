@@ -29,7 +29,6 @@ import yash from "./Assets/teami/YashKataria.jpeg";
 import zak from "./Assets/teami/zakariya.png";
 import sid from "./Assets/teami/SiddhantPawar.jpeg";
 import pk from "./Assets/teami/pk.jpeg";
-import ak from "./Assets/teami/ak.jpeg";
 import ar from "./Assets/teami/ar.jpeg";
 import vk from "./Assets/teami/vk.jpeg";
 import sr from "./Assets/teami/sr.jpeg";
@@ -412,12 +411,7 @@ const TeamInfo = [
       linkedin: "https://www.linkedin.com/in/abhayku2002/",
       img: abhay
     },
-    {
-      Name: "Anshuman Kumar Prasad",
-      role: "Discord Moderator",
-      linkedin: "https://www.linkedin.com/in/aminoxix/",
-      img: ak
-    }  
+    
   ],
    
 ];
