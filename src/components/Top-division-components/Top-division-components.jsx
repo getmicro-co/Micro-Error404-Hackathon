@@ -41,19 +41,6 @@ function Myinfo() {
         for 72 hours of creation, innovation & fun.
       </p>
       <div className="join_dis">
-        {/* <a rel="noreferrer" target="_blank" href={SOCIALS.discord}>
-          <Btn
-            ico="fab fa-2x fa-discord"
-            class="join_disco"
-            type=""
-            overlay="Click the link"
-          />
-        </a> */}
-        {/* <Row className="mediaInfo"> */}
-            {/* <Col className="" sm={12} lg={12} md={12}> */}
-              {/* <Media /> */}
-            {/* </Col> */}
-        {/* </Row> */}
 
       {/* This is top division buttons */}
       <a href={TOP_SECTION.HACKERS_REGISTRATION_FORM_LINK}
