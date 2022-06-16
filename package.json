@@ -64,11 +64,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getmicro-co/micro-error404-hackathon-new.git"
+    "url": "git+https://github.com/getmicro-co/Micro-Error404-Hackathon.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/getmicro-co/micro-error404-hackathon-new/issues"
+    "url": "https://github.com/getmicro-co/Micro-Error404-Hackathon/issues"
   }
 }
